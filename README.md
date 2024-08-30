@@ -15,3 +15,9 @@ This repository provides a Python script to convert Excel files (.xlsx) to XML f
   _ Python 3.x
   + pandas for reading Excel files
   * lxml for generating XML files
+
+## Installation
+Install the required libraries using pip:
+  **pip install pandas lxml**
+
+
